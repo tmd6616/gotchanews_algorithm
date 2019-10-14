@@ -1,5 +1,7 @@
-# gotchanews_algorithm
+
 가챠뉴스 알고리즘
+=============
+gotchanews_algorithm
 =============
 
 LG글로벌챌린저 2019 가챠뉴스팀
