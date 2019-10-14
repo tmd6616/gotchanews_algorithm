@@ -41,7 +41,7 @@ for a in keyword:
 
 import pymysql
 
-conn=pymysql.connect(host='localhost', user='gotchanews', password='tkfkdgo', db='snudb', charset='utf8')
+conn=pymysql.connect(host='localhost', user='gotchanews', password='', db='snudb', charset='utf8')
 curs=conn.cursor()
 
 search_list=[]
